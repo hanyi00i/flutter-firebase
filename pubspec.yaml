@@ -1,0 +1,33 @@
+name: flutter_firebase
+description: Flutter app with Firebase
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_auth: ^4.7.1
+  firebase_core: ^2.15.0
+  firebase_database: ^10.2.6
+  firebase_storage: ^11.1.0
+  firebase_messaging: ^14.6.9
+  image: ^3.0.1
+  image_picker: ^0.8.7+1
+  intl: ^0.18.1
+  intl_phone_field: ^3.2.0
+  shared_preferences: ^2.2.1
+  flutter_otp_text_field: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/led.png

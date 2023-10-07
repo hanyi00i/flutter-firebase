@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "178771915717",
+    "firebase_url": "https://advancti-37d4b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "advancti-37d4b",
+    "storage_bucket": "advancti-37d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178771915717:android:b60d936fa5ea20702491ac",
+        "android_client_info": {
+          "package_name": "com.example.advancti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQot0J-SCgIaiJjvwYf9rRLRUPifDwAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
